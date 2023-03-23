@@ -293,6 +293,11 @@ body {
     box-shadow: 0 0 45px 5px rgba(0, 0, 0, 0.85);
     overflow: hidden
 }
+@media (max-width: 425px) {
+	.l-viewport {
+		height: 93vh;
+	}
+}
 
 .l-wrapper {
     position: relative;
