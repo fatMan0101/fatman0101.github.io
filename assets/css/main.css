@@ -1968,7 +1968,7 @@ body {
 	 transition: all 200ms ease-in-out;
 }
  .pop input:checked + .modal .modal__inner p {
-	 font-size: 1.25rem;
+	 font-size: 1.1rem;
 	 line-height: 125%;
 }
  .pop input:checked + .modal label {
